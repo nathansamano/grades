@@ -1,4 +1,5 @@
 /* Nathan Samano
+ * CMP344
  * Ch. 2 Exercise 1
  * grades.js 
  */
